@@ -63,8 +63,8 @@ Then, the different layers in the protocol stack are explored following a top--�
 
 ## Evaluation ##
 
-- 2-hour written exam: 60% (French Univ. jargon: CT, Contrôle Terminal écrit de 2h)
-- 1 Labs mark: 40% (French Univ. jargon: CC, une note de Contrôle Continue)
+- 2-hour written exam: 50% (French Univ. jargon: CT, Contrôle Terminal écrit de 2h)
+- Homework + class work: 50% (French Univ. jargon: CC, une note de Contrôle Continue)
 
 ## Retake ##
 

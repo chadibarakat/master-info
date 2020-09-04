@@ -3,10 +3,10 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "R. Aparicio, MCF"
+subheadline: "C. Aparicio, MCF"
 title: "(N/A) Computer networks"
 logo: "logo_blanc.png"
-teaser: "<strong>This course is not available in 2020-2021.</strong></br>This course aims to present the architecture of the computer networks from a protocol perspective."
+teaser: "This course aims to present the architecture of the computer networks from a protocol perspective."
 categories:
   - S1
 tags:
@@ -34,7 +34,7 @@ First, networking basics are introduced, paying a special attention to how netwo
 Then, the different layers in the protocol stack are explored following a top--‐down approach. Finally, at each layer main protocols, algorithms and mechanisms are detailed.
 
 ## Lectures ##
-### Part 1: Ramon Aparicio
+### Part 1: Chadi Barakat
  - Session 1. INTRODUCTION / APPLICATIONS LAYER.
      - Packet switching, performance (delay, throughput, ...), protocol stack (layers) --‐ Services Application layer.
  - Session 2. APPLICATIONS LAYER.
